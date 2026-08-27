@@ -732,8 +732,8 @@ a {
     }
 
     .cargo-banner .cargo-image img {
-        width: 100% !important;
-        max-width: 100% !important;
+        width: 60% !important;
+        max-width: 60% !important;
         object-fit: contain;
         margin: 0 auto;
         display: block;
